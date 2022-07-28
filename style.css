@@ -1,0 +1,42 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    min-height: 100vh;
+    background-color:gainsboro;
+cursor: pointer;
+    width: 100%;
+}
+
+.container-box{
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    padding:0px;
+    background-color:white;
+    box-shadow:none;
+    width: 660px;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+button{
+    cursor: pointer;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 40px;
+width:100%;
+display: block;
+background-color: blueviolet;
+border:none;    
+overflow: hidden;
+padding: 1rem;
+font-size: 1.3rem;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+    
